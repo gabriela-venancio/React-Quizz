@@ -1,0 +1,26 @@
+#gameOver{
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#gameOver h2,
+#gameOver p{
+    margin-bottom: 1rem;
+
+}
+
+#gameOver p{
+    color: #8435de;
+}
+
+#gameOver img{
+    margin: 2rem;
+    max-height: 200px;
+}
+
+#questions button{
+    border:2px solid #fff;
+}
